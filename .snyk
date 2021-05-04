@@ -25,3 +25,9 @@ patch:
   'npm:ms:20151024':
     - humanize-ms > ms:
         patched: '2021-05-04T15:44:28.131Z'
+  'npm:debug:20170905':
+    - tap > tap-mocha-reporter > debug:
+        patched: '2021-05-04T15:51:02.666Z'
+  'npm:ms:20170412':
+    - tap > tap-mocha-reporter > debug > ms:
+        patched: '2021-05-04T15:51:02.666Z'
